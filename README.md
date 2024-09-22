@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Corbin Van Scheltema. Student.
+Corbin Van Scheltema. BYUI Student.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
