@@ -10,7 +10,7 @@ class Program
         int userNumber = -1;
         while (userNumber != 0)
         {
-            Console.Write("Enter Number, 0 to exit counting: ");
+            Console.Write("Enter Number, 0 to exit and count total: ");
 
             string userResponse = Console.ReadLine();
             userNumber = int.Parse(userResponse);
