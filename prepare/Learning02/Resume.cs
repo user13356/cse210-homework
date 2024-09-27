@@ -16,7 +16,7 @@ public class Resume
         //Using Job as custom data type.
         foreach (Job job in _jobs)
         {
-            job.Dsiplay();
+            job.Display();
         }
     }
 }
