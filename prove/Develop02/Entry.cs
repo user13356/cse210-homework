@@ -1,12 +1,25 @@
-public class Entry
+using System;
+
+public class Entry 
+
 {
-    public string _date;
-    public string _promptText;
-    public string _entryText;
+public string DateCreated {get;}
+public string Content {get;}
 
-    public void Display()
+//Input data received from user
 
+public Entry (string dateInput, string content) 
     {
-
+    DateCreated = dateInput;
+    Content = content;
     }
+
+    //Content of Entry displayed
+
+    public void DisplayEntry()
+    {
+        Console.WriteLine($"Date: {DateCreated}");
+        Console.WriteLine($"Content: {Content}\n");
+    }
+
 }
