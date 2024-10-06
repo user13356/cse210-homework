@@ -1,0 +1,4 @@
+1;Proverbs;17;13;Evil will never leave the house of one who pays back evil for good.
+2;Hebrews;13;8;Jesus Christ is the same yesterday and today and forever.
+3;Matthew;11;30;For my yoke is easy and my burden is light.
+4;Romans;10;11;Anyone who believes in him will never be put to shame.
