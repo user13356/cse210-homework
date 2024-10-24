@@ -1,0 +1,26 @@
+{
+    "items": [
+
+        {
+
+            "id": { "videoId": "VIDEO_ID_1" },
+            "snippet": {
+                "publishedAt": "2023-01-01T00:00:00Z",
+                "title": "Video Title 1",
+                "description": "Description of video 1."
+            }
+
+        },
+
+        {
+            "id": { "videoId": "VIDEO_ID_2" },
+            "snippet": {
+                "publishedAt": "2023-01-02T00:00:00Z",
+                "title": "Video Title 2",
+                "description": "Description of video 2."
+
+            }
+            
+        }
+    ]
+}
